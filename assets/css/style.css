@@ -1,0 +1,29 @@
+.jumbotron {
+	background-color: #67D0F6;\
+	font-size: 150px;
+}
+
+#happy {
+	background-color: yellow;
+}
+
+#sad {
+	background-color: blue;
+}
+
+#angry {
+	background-color: red;
+}
+
+#excited {
+	background-color: pink;
+}
+
+body {
+	background-color: #86F4F6;
+	font-family: 'Anton', sans-serif;
+}
+
+#zipCode {
+	background-color: #D4909A;
+}
