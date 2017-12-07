@@ -26,11 +26,15 @@ body {
 }
 
 #zipCode {
-	background-color: #D4909A;
+	background-color: teal;
 }
 
 img {
 	padding-top: 100px;
 	/*margin-top: 100px;
 	border-top: 200px;*/
+}
+
+.input-group-btn {
+	border: 100px;
 }
